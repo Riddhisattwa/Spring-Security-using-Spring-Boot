@@ -57,8 +57,8 @@ This application is based on Spring Boot and uses JWT to perform authorization.
 
 
 **spring security**-Used for performing authentication and unauthorized usage of controllers .  
-**io.Json Web Token**-Used for doing HTTP Requests.  
-**Project Lombok**-Used for parsing the website and do scrape operations.  
+**io.Json Web Token**-Used for generating the JWT token and perform operations on it.  
+**Project Lombok**-Used for generating getters and setters.  
  
 ## Steps after running the project:  
 
